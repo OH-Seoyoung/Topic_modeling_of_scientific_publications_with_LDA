@@ -1,6 +1,6 @@
 # Topic modeling of scientific publications with LDA (20210324 ~ 20210405)
 - This competition aims to identify the mention of datasets within scientific publications.
-- 
+- WordCloud, Topic modeling, LDA
 ### Competition : [Coleridge Initiative - Show US the Data](https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/overview)  
 - This repo is maintained by 오서영, [최연석](https://github.com/YeonSeok-Choi)  
 
