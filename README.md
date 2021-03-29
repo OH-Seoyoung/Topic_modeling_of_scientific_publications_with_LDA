@@ -14,7 +14,9 @@
 </div>  
 
 #### **2**. Publications Topic modeling using Latent Dirichlet Allocation | [[Code]](https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/Topic_modeling_of_scientific_publications_with_LDA_ver2.ipynb)  
-/%EC%98%A4%EC%84%9C%EC%98%81/Desktop/Github/Topic_modeling_of_scientific_publications_with_LDA/lda.html#topic=0&lambda=1&term=)
+<div align="center">
+<img src="https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/lda.gif?raw=True" width="60%"> <br>
+</div>  
 
 ## Reference  
 ```
