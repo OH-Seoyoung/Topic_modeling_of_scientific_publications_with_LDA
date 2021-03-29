@@ -18,9 +18,9 @@
 ![](https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/lda.html)
 
 ## Reference
-'''
+``
 [1] Simple EDA and preprocessing of DataFrame, https://www.kaggle.com/tanlikesmath/simple-eda-and-preprocessing-of-dataframe
 [2] [ShowUsTheData] EDA & Visualization Utils, https://www.kaggle.com/subinium/showusthedata-eda-visualization-utils
 [3] [ShowUsTheData] Topic Modeling with LDA, https://www.kaggle.com/subinium/showusthedata-topic-modeling-with-lda
 [4] 딥러닝을 이용한 자연어처리 입문, https://wikidocs.net/30708
-'''
+``
