@@ -15,6 +15,16 @@
 
 #### **2**. Publications Topic modeling using Latent Dirichlet Allocation | [[Code]](https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/Topic_modeling_of_scientific_publications_with_LDA_ver2.ipynb)
 
+<svg width="100" height="100" xmlns="https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/lda.html">
+<foreignObject width="100" height="100">
+    <div xmlns="https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/lda.html">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
 ![](https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/lda.html)
 
 ## Reference
