@@ -15,7 +15,7 @@
 
 #### **2**. Publications Topic modeling using Latent Dirichlet Allocation | [[Code]](https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/Topic_modeling_of_scientific_publications_with_LDA_ver2.ipynb)
 <div align="center">
-<img src="https://github.com/OH-Seoyoung/Forecasting_on_air_pollution_with_Numerical_analysis_and_ML/blob/master/figure/fig4.jpg?raw=True" width="35%"> <br>
+<img src="https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/lda.html" width="60%"> <br>
 </div>  
 
 ## Reference
