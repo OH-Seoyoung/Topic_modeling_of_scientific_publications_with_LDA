@@ -15,9 +15,9 @@
 
 #### **2**. Publications Topic modeling using Latent Dirichlet Allocation | [[Code]](https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/Topic_modeling_of_scientific_publications_with_LDA_ver2.ipynb)  
 
-<svg width="100" height="100" xmlns="https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/lda.html">
+<svg width="100" height="100" xmlns="file:///C:/Users/%EC%98%A4%EC%84%9C%EC%98%81/Desktop/Github/Topic_modeling_of_scientific_publications_with_LDA/lda.html#topic=0&lambda=1&term=">
 <foreignObject width="100" height="100">
-    <div xmlns="https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/lda.html">
+    <div xmlns="file:///C:/Users/%EC%98%A4%EC%84%9C%EC%98%81/Desktop/Github/Topic_modeling_of_scientific_publications_with_LDA/lda.html#topic=0&lambda=1&term=">
         <ul>
             <li>text</li>
         </ul>
@@ -25,7 +25,7 @@
     </div>
 </foreignObject>
 </svg>
-![](https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/lda.html)
+![](file:///C:/Users/%EC%98%A4%EC%84%9C%EC%98%81/Desktop/Github/Topic_modeling_of_scientific_publications_with_LDA/lda.html#topic=0&lambda=1&term=)
 
 ## Reference  
 ```
