@@ -4,7 +4,7 @@
 ### Competition : [Coleridge Initiative - Show US the Data](https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/overview)  
 - This repo is maintained by 오서영, [최연석](https://github.com/YeonSeok-Choi)  
 
-[[Presentation]]() | [[Infographic]]()
+[[Presentation]](https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/presentation.pdf) | [[Infographic]](https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/infographic.gif)
 
 ## Process
 #### **1**. Explore datasets and Make Wordcloud with stemming, lemmatization and tokenization | [[Code]](https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/EDA_and_WordCloud.ipynb)
