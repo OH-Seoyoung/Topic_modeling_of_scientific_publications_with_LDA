@@ -3,7 +3,7 @@
 - WordCloud, Topic modeling, LDA
 - Mar. 24, 2021 ~ Apr. 5, 2021
 
-### Competition : [Coleridge Initiative - Show US the Data](https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/overview)  
+### Team Project for Data Analysis Club
 - This repo is maintained by 오서영, [최연석](https://github.com/YeonSeok-Choi)  
 
 | [Presentation](https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/presentation.pdf) | [Infographic](https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/infographic.gif) |
@@ -19,6 +19,11 @@
 <div align="center">
 <img src="https://github.com/OH-Seoyoung/Topic_modeling_of_scientific_publications_with_LDA/blob/master/lda.gif?raw=True" width="60%"> <br>
 </div>  
+
+## Dataset
+```
+[1] Coleridge Initiative - Show US the Data, https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/overview
+```
 
 ## Reference  
 ```
