@@ -1,4 +1,4 @@
-# Topic modeling of scientific publications with LDA
+# Topic Modeling of Scientific Publications with LDA
 - This competition aims to identify the mention of datasets within scientific publications.
 - WordCloud, Topic modeling, LDA
 - Mar. 24, 2021 ~ Apr. 5, 2021
